@@ -16,7 +16,7 @@
     for (i = 0; i < this.dictionarySize; i = i + 1) {
       dictionary[String.fromCharCode(i)] = i;
     }
-
+//nice
     for (i = 0; i < data.length; i = i + 1) {
       character = data.charAt(i);
       wc = w + character;
