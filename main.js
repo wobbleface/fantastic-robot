@@ -28,4 +28,4 @@
         this.dictionarySize = this.dictionarySize + 1;
         w = String(character);
       }
-    }
+    }//to change
